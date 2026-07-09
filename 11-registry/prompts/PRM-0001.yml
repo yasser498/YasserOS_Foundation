@@ -1,0 +1,20 @@
+id: PRM-0001
+name: New Project Analysis Prompt
+category: Prompt
+domain: Company
+owner: YasserOS
+status: approved
+version: 1.0.0
+depends:
+  - AI-0001
+used_by:
+  - codex
+  - gpt
+  - project-generator
+ai_priority: high
+description: >
+  برومبت تحليل أولي لأي مشروع جديد قبل توليد الكود.
+tags:
+  - prompt
+  - analysis
+  - project-generator

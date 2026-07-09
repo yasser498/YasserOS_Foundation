@@ -1,0 +1,19 @@
+id: UI-0001
+name: Government RTL Dashboard
+category: UI
+domain: Government
+owner: YasserOS
+status: draft
+version: 0.1.0
+depends:
+  - DSG-0001
+used_by:
+  - future-dashboards
+ai_priority: high
+description: >
+  معيار أولي للوحات التحكم الحكومية والتعليمية باللغة العربية.
+tags:
+  - ui
+  - dashboard
+  - rtl
+  - government

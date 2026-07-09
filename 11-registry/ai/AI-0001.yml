@@ -1,0 +1,19 @@
+id: AI-0001
+name: YasserOS AI Operating Principles
+category: AI
+domain: Company
+owner: YasserOS
+status: approved
+version: 1.0.0
+depends:
+  - STD-0001
+used_by:
+  - all-projects
+ai_priority: critical
+description: >
+  المبادئ التشغيلية التي يجب أن يلتزم بها أي نموذج ذكاء اصطناعي يعمل على مشاريع YasserOS.
+tags:
+  - ai
+  - architecture
+  - governance
+  - company-brain

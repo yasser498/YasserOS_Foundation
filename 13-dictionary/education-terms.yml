@@ -1,0 +1,40 @@
+terms:
+  - arabic: طالب
+    english: Student
+    entity: Student
+    db_table: students
+    api_resource: students
+    module: Students
+    notes: يمثل الطالب داخل النظام التعليمي.
+
+  - arabic: معلم
+    english: Teacher
+    entity: Teacher
+    db_table: teachers
+    api_resource: teachers
+    module: Teachers
+    notes: يمثل المعلم أو الموظف التعليمي.
+
+  - arabic: ولي أمر
+    english: Guardian
+    entity: Guardian
+    db_table: guardians
+    api_resource: guardians
+    module: Guardians
+    notes: يمثل ولي أمر الطالب أو المسؤول عن التواصل.
+
+  - arabic: فصل
+    english: Classroom
+    entity: Classroom
+    db_table: classrooms
+    api_resource: classrooms
+    module: Classrooms
+    notes: يمثل الفصل الدراسي مثل 1/1 أو 2/3.
+
+  - arabic: صف
+    english: Grade
+    entity: Grade
+    db_table: grades
+    api_resource: grades
+    module: Grades
+    notes: يمثل المرحلة الصفية مثل الأول متوسط أو الثاني متوسط.

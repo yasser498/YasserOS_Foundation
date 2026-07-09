@@ -1,0 +1,15 @@
+id: string
+name: string
+category: string
+domain: string
+owner: string
+status: draft | approved | deprecated
+version: semver
+depends:
+  - string
+used_by:
+  - string
+ai_priority: low | medium | high | critical
+description: string
+tags:
+  - string

@@ -1,0 +1,20 @@
+id: DSG-0001
+name: Saudi Ministry of Education Visual Identity
+category: Design
+domain: Education
+owner: YasserOS
+status: approved
+version: 1.0.0
+depends: []
+used_by:
+  - RPT-0001
+  - UI-0001
+ai_priority: critical
+description: >
+  أصل الهوية البصرية لوزارة التعليم السعودية داخل YasserOS، ويستخدم في التقارير والقوالب التعليمية.
+tags:
+  - design
+  - moe
+  - identity
+  - education
+  - rtl

@@ -1,0 +1,23 @@
+id: RPT-0001
+name: MOE Official Report
+category: Report
+domain: Education
+owner: YasserOS
+status: approved
+version: 1.0.0
+depends:
+  - DSG-0001
+  - UI-0001
+used_by:
+  - school-platform
+  - education-suite
+ai_priority: critical
+description: >
+  معيار التقرير الرسمي المتوافق مع هوية وزارة التعليم السعودية.
+tags:
+  - report
+  - moe
+  - education
+  - pdf
+  - rtl
+  - a4

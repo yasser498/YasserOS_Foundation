@@ -1,0 +1,22 @@
+id: EDU-0001
+name: Education Suite Domain Model
+category: Education
+domain: Education
+owner: YasserOS
+status: draft
+version: 0.1.0
+depends:
+  - DB-0001
+  - AI-0001
+used_by:
+  - school-platform
+  - future-education-products
+ai_priority: high
+description: >
+  النموذج المعرفي العام لوحدات الأنظمة التعليمية داخل YasserOS.
+tags:
+  - education
+  - school
+  - students
+  - teachers
+  - attendance

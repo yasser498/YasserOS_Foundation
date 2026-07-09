@@ -1,0 +1,19 @@
+id: DB-0001
+name: PostgreSQL Core Standard
+category: Database
+domain: Company
+owner: YasserOS
+status: approved
+version: 1.0.0
+depends:
+  - AI-0001
+used_by:
+  - all-projects
+ai_priority: critical
+description: >
+  المعيار الأساسي لبناء قواعد PostgreSQL في جميع مشاريع YasserOS.
+tags:
+  - postgresql
+  - database
+  - uuid
+  - migrations
