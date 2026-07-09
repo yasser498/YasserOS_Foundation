@@ -1,0 +1,38 @@
+{
+  "brand": "Saudi Ministry of Education",
+  "direction": "rtl",
+  "logo": {
+    "source_url": "https://upload.wikimedia.org/wikipedia/ar/1/17/Saudi_Ministry_of_Education_Logo_2025.png",
+    "safe_area_print_min_cm": 1.5,
+    "rules": [
+      "Do not change logo colors",
+      "Do not distort proportions",
+      "Do not add shadow behind logo",
+      "Do not place on unauthorized color backgrounds"
+    ]
+  },
+  "typography": {
+    "arabic": {
+      "regular": "SAKKAL MAJALLA REGULAR",
+      "bold": "SAKKAL MAJALLA BOLD"
+    },
+    "english": {
+      "regular": "SAKKAL MAJALLA REGULAR",
+      "bold": "SAKKAL MAJALLA BOLD"
+    },
+    "fallback_arabic": [
+      "Arial",
+      "Tahoma",
+      "Noto Naskh Arabic",
+      "Tajawal"
+    ]
+  },
+  "document": {
+    "page": "A4",
+    "direction": "rtl",
+    "default_margin_cm": 1.5,
+    "header": true,
+    "footer": true,
+    "watermark_allowed": true
+  }
+}
