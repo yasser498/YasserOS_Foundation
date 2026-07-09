@@ -1,15 +1,14 @@
 # Changelog
 
-## v1.2.0 - 2026-07-09
+## v1.3.0 - 2026-07-09
 
 ### Added
-- إضافة MOE Design Engine.
-- إضافة Design Tokens للألوان والخطوط والمسافات.
-- إضافة قواعد التقارير والطباعة والهوية.
-- إضافة قوالب تقرير رسمي وخطاب رسمي وشهادة ولوحة مؤشرات.
-- إضافة Registry Objects جديدة للتصميم والقوالب.
-- إضافة برومبتات تصميم خاصة بالهوية التعليمية.
-
-### Notes
-- هذا الإصدار لا يحذف أي ملف من v1.0 أو v1.1.
-- يعتمد على الهوية البصرية المرفوعة لوزارة التعليم.
+- إضافة AI Engine.
+- إضافة AI Gateway Rules.
+- إضافة Model Routing Strategy.
+- إضافة Prompt Library Structure.
+- إضافة Codex Rules.
+- إضافة AI Task Lifecycle.
+- إضافة AI Output Contract.
+- إضافة AI Governance.
+- إضافة Registry Objects جديدة للذكاء الاصطناعي.

@@ -1,0 +1,22 @@
+{
+  "id": "AI-0003",
+  "name": "Model Routing Strategy",
+  "category": "AI",
+  "domain": "Company",
+  "owner": "YasserOS",
+  "status": "approved",
+  "version": "1.0.0",
+  "depends": [
+    "AI-0002"
+  ],
+  "used_by": [
+    "ai-gateway"
+  ],
+  "ai_priority": "critical",
+  "description": "استراتيجية اختيار النموذج المناسب حسب نوع المهمة والتكلفة.",
+  "tags": [
+    "model-routing",
+    "cost-control",
+    "ai"
+  ]
+}

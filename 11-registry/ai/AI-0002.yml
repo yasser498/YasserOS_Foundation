@@ -1,0 +1,22 @@
+{
+  "id": "AI-0002",
+  "name": "AI Gateway Rules",
+  "category": "AI",
+  "domain": "Company",
+  "owner": "YasserOS",
+  "status": "approved",
+  "version": "1.0.0",
+  "depends": [
+    "AI-0001"
+  ],
+  "used_by": [
+    "all-ai-enabled-projects"
+  ],
+  "ai_priority": "critical",
+  "description": "قواعد تشغيل AI Gateway ومنع الارتباط بمزود واحد.",
+  "tags": [
+    "ai-gateway",
+    "vendor-lock-in",
+    "api"
+  ]
+}

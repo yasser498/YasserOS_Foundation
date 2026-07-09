@@ -1,0 +1,21 @@
+{
+  "id": "PRM-0004",
+  "name": "System Architect Prompt",
+  "category": "Prompt",
+  "domain": "AI",
+  "owner": "YasserOS",
+  "status": "approved",
+  "version": "1.0.0",
+  "depends": [
+    "AI-0001"
+  ],
+  "used_by": [
+    "ai-engine"
+  ],
+  "ai_priority": "high",
+  "description": "برومبت مهندس الحلول لتحليل الأنظمة قبل التنفيذ.",
+  "tags": [
+    "prompt",
+    "ai-engine"
+  ]
+}

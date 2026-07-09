@@ -1,0 +1,21 @@
+{
+  "id": "PRM-0006",
+  "name": "Code Reviewer Prompt",
+  "category": "Prompt",
+  "domain": "AI",
+  "owner": "YasserOS",
+  "status": "approved",
+  "version": "1.0.0",
+  "depends": [
+    "AI-0001"
+  ],
+  "used_by": [
+    "ai-engine"
+  ],
+  "ai_priority": "high",
+  "description": "برومبت مراجعة الكود.",
+  "tags": [
+    "prompt",
+    "ai-engine"
+  ]
+}

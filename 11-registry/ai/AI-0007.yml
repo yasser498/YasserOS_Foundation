@@ -1,0 +1,23 @@
+{
+  "id": "AI-0007",
+  "name": "Codex Execution Rules",
+  "category": "AI",
+  "domain": "Development",
+  "owner": "YasserOS",
+  "status": "approved",
+  "version": "1.0.0",
+  "depends": [
+    "AI-0001",
+    "AI-0005"
+  ],
+  "used_by": [
+    "codex"
+  ],
+  "ai_priority": "high",
+  "description": "قواعد تنفيذ Codex للمهام داخل مستودعات YasserOS.",
+  "tags": [
+    "codex",
+    "execution",
+    "github"
+  ]
+}

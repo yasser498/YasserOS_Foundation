@@ -1,0 +1,21 @@
+{
+  "id": "PRM-0005",
+  "name": "Database Designer Prompt",
+  "category": "Prompt",
+  "domain": "AI",
+  "owner": "YasserOS",
+  "status": "approved",
+  "version": "1.0.0",
+  "depends": [
+    "AI-0001"
+  ],
+  "used_by": [
+    "ai-engine"
+  ],
+  "ai_priority": "high",
+  "description": "برومبت تصميم قواعد PostgreSQL وفق معايير YasserOS.",
+  "tags": [
+    "prompt",
+    "ai-engine"
+  ]
+}

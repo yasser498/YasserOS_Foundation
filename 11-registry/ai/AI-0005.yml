@@ -1,0 +1,24 @@
+{
+  "id": "AI-0005",
+  "name": "AI Task Lifecycle",
+  "category": "AI",
+  "domain": "Company",
+  "owner": "YasserOS",
+  "status": "approved",
+  "version": "1.0.0",
+  "depends": [
+    "AI-0001"
+  ],
+  "used_by": [
+    "codex",
+    "gpt",
+    "project-generator"
+  ],
+  "ai_priority": "critical",
+  "description": "دورة حياة مهام الذكاء الاصطناعي داخل YasserOS.",
+  "tags": [
+    "ai",
+    "workflow",
+    "task-lifecycle"
+  ]
+}

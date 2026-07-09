@@ -1,37 +1,37 @@
 ---
-id: CORE-README-0003
-title: YasserOS Foundation v1.2 MOE Design Engine
-version: 1.2.0
+id: CORE-README-0004
+title: YasserOS Foundation v1.3 AI Engine
+version: 1.3.0
 status: approved
 owner: YasserOS
 updated: 2026-07-09
 tags:
-  - design-engine
-  - moe
-  - education
-  - reports
-  - rtl
+  - ai-engine
+  - ai-gateway
+  - prompts
+  - automation
+  - codex
 ---
 
-# YasserOS Foundation v1.2 - MOE Design Engine
+# YasserOS Foundation v1.3 - AI Engine
 
-هذا الإصدار يضيف محرك تصميم مبدئي خاص بهوية وزارة التعليم داخل YasserOS.
+هذا الإصدار يضيف النواة الأولى لمحرك الذكاء الاصطناعي داخل YasserOS.
 
 ## الهدف
 
-تحويل الهوية البصرية لوزارة التعليم إلى قواعد تنفيذية قابلة للاستخدام في:
+بناء طبقة AI موحدة بحيث لا تتعامل المشاريع مباشرة مع OpenAI أو Gemini أو Claude أو النماذج المحلية، بل تتعامل مع **YasserOS AI Engine**.
 
-- التقارير.
-- الخطابات.
-- الشهادات.
-- لوحات المؤشرات.
-- العروض.
-- القوالب المطبوعة.
-- واجهات الويب والجوال.
+## المخرجات
 
-## مبدأ العمل
-
-بدل أن نكتب كل مرة: "استخدم هوية وزارة التعليم"، أصبح لدينا Design Tokens وقواعد وقوالب يمكن لأي AI أو مطور قراءتها وتنفيذها.
+- AI Gateway Rules.
+- Model Routing Strategy.
+- Prompt Library.
+- Codex Execution Rules.
+- AI Task Lifecycle.
+- AI Safety & Governance.
+- AI Memory Rules.
+- AI Output Contract.
+- Registry Objects لمحرك الذكاء الاصطناعي.
 
 ## طريقة الرفع
 
@@ -40,7 +40,7 @@ tags:
 Commit مقترح:
 
 ```text
-Add MOE Design Engine v1.2
+Add AI Engine v1.3
 ```
 
 Build Once. Reuse Forever.

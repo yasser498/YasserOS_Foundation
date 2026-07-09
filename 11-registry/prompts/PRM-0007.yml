@@ -1,0 +1,21 @@
+{
+  "id": "PRM-0007",
+  "name": "Project Generator Prompt",
+  "category": "Prompt",
+  "domain": "AI",
+  "owner": "YasserOS",
+  "status": "draft",
+  "version": "0.1.0",
+  "depends": [
+    "AI-0001"
+  ],
+  "used_by": [
+    "ai-engine"
+  ],
+  "ai_priority": "high",
+  "description": "برومبت مولد المشاريع بعد اعتماد الخطة.",
+  "tags": [
+    "prompt",
+    "ai-engine"
+  ]
+}
