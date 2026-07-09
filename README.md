@@ -1,43 +1,46 @@
 ---
-id: CORE-README-0001
-title: YasserOS Foundation v1.1 Knowledge Registry
-version: 1.1.0
+id: CORE-README-0003
+title: YasserOS Foundation v1.2 MOE Design Engine
+version: 1.2.0
 status: approved
 owner: YasserOS
 updated: 2026-07-09
 tags:
-  - foundation
-  - knowledge-registry
-  - education
+  - design-engine
   - moe
+  - education
+  - reports
+  - rtl
 ---
 
-# YasserOS Foundation v1.1
+# YasserOS Foundation v1.2 - MOE Design Engine
 
-هذا الإصدار يضيف طبقة **Company Knowledge Registry** فوق الإصدار الأول الذي تم رفعه على GitHub.
+هذا الإصدار يضيف محرك تصميم مبدئي خاص بهوية وزارة التعليم داخل YasserOS.
 
 ## الهدف
 
-تحويل المستودع من ملفات عادية إلى قاعدة معرفة مؤسسية قابلة للقراءة من الإنسان والذكاء الاصطناعي.
+تحويل الهوية البصرية لوزارة التعليم إلى قواعد تنفيذية قابلة للاستخدام في:
 
-## ماذا تضيف هذه الحزمة؟
+- التقارير.
+- الخطابات.
+- الشهادات.
+- لوحات المؤشرات.
+- العروض.
+- القوالب المطبوعة.
+- واجهات الويب والجوال.
 
-- `11-registry`: سجل أصول الشركة.
-- `12-assets`: تنظيم الأصول البصرية والملفات.
-- `13-dictionary`: قاموس المصطلحات الموحد.
-- `14-governance`: قواعد الحوكمة والمراجعة والإصدارات.
-- `.github`: قوالب Issues وPull Requests.
-- `CHANGELOG.md`: سجل التغييرات.
-- `RELEASE_NOTES_v1.1.0.md`: ملاحظات الإصدار.
+## مبدأ العمل
 
-## طريقة الاستخدام
+بدل أن نكتب كل مرة: "استخدم هوية وزارة التعليم"، أصبح لدينا Design Tokens وقواعد وقوالب يمكن لأي AI أو مطور قراءتها وتنفيذها.
 
-ارفع محتويات هذا المجلد فوق المستودع الحالي `YasserOS_Foundation` ولا تحذف الملفات القديمة.
+## طريقة الرفع
+
+ارفع محتويات هذا المجلد فوق مستودع `YasserOS_Foundation` الحالي ولا تحذف الملفات السابقة.
 
 Commit مقترح:
 
 ```text
-Add Knowledge Registry v1.1
+Add MOE Design Engine v1.2
 ```
 
 Build Once. Reuse Forever.

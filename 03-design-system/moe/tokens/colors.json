@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "id": "TOK-COLORS-MOE-0001",
+    "version": "1.0.0",
+    "status": "draft",
+    "notes": "ألوان أولية قابلة للتعديل بعد استخراج القيم الدقيقة من دليل الهوية."
+  },
+  "brand": {
+    "primary": {
+      "name": "MOE Primary Green",
+      "value": "#0B7A75",
+      "usage": "العناوين الرئيسية، العناصر المؤسسية، مؤشرات النجاح"
+    },
+    "secondary": {
+      "name": "MOE Teal",
+      "value": "#00A19A",
+      "usage": "التمييز، البطاقات، الرسوم البيانية"
+    },
+    "deep": {
+      "name": "Deep Government Navy",
+      "value": "#102A43",
+      "usage": "النصوص الثقيلة والعناوين الرسمية"
+    },
+    "neutral": {
+      "white": "#FFFFFF",
+      "background": "#F7F9FA",
+      "border": "#D9E2E7",
+      "text": "#1F2933",
+      "mutedText": "#52606D"
+    },
+    "support": {
+      "success": "#2F855A",
+      "warning": "#D69E2E",
+      "danger": "#C53030",
+      "info": "#2B6CB0"
+    }
+  },
+  "charts": {
+    "palette": [
+      "#0B7A75",
+      "#00A19A",
+      "#2B6CB0",
+      "#D69E2E",
+      "#6B7280",
+      "#2F855A"
+    ]
+  }
+}

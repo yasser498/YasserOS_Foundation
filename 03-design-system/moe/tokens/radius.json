@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "TOK-RADIUS-MOE-0001",
+    "version": "1.0.0"
+  },
+  "radius": {
+    "none": "0",
+    "sm": "4px",
+    "md": "8px",
+    "lg": "12px",
+    "xl": "18px"
+  },
+  "usage": {
+    "official_documents": "sm",
+    "dashboards": "lg",
+    "cards": "lg"
+  }
+}

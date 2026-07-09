@@ -1,0 +1,19 @@
+id: TMP-0004
+name: MOE Certificate Template
+category: Template
+domain: Education
+owner: YasserOS
+status: draft
+version: 0.1.0
+depends:
+  - DSG-0001
+  - DSG-0002
+used_by:
+  - certificates
+ai_priority: medium
+description: >
+  قالب شهادات التكريم والحضور والإنجاز وفق الهوية التعليمية.
+tags:
+  - template
+  - certificate
+  - moe

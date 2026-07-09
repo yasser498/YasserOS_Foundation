@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "TOK-SPACE-MOE-0001",
+    "version": "1.0.0"
+  },
+  "page": {
+    "a4_margin_top": "18mm",
+    "a4_margin_right": "15mm",
+    "a4_margin_bottom": "18mm",
+    "a4_margin_left": "15mm",
+    "logo_safe_area_print": "15mm"
+  },
+  "spacing_scale": {
+    "1": "4px",
+    "2": "8px",
+    "3": "12px",
+    "4": "16px",
+    "5": "24px",
+    "6": "32px",
+    "7": "48px"
+  }
+}

@@ -1,0 +1,20 @@
+id: UI-0002
+name: MOE Dashboard Layout
+category: UI
+domain: Education
+owner: YasserOS
+status: draft
+version: 0.1.0
+depends:
+  - DSG-0001
+  - DSG-0002
+used_by:
+  - education-dashboards
+ai_priority: high
+description: >
+  قالب لوحة مؤشرات تعليمية متوافقة مع هوية وزارة التعليم.
+tags:
+  - ui
+  - dashboard
+  - moe
+  - rtl

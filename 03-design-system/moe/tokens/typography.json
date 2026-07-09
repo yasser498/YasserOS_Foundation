@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "id": "TOK-TYPO-MOE-0001",
+    "version": "1.0.0",
+    "status": "approved"
+  },
+  "arabic": {
+    "primaryFont": "SAKKAL MAJALLA",
+    "fallback": [
+      "Arial",
+      "Tahoma",
+      "sans-serif"
+    ],
+    "regular": "SAKKAL MAJALLA Regular",
+    "bold": "SAKKAL MAJALLA Bold"
+  },
+  "english": {
+    "primaryFont": "SAKKAL MAJALLA",
+    "fallback": [
+      "Arial",
+      "sans-serif"
+    ]
+  },
+  "sizes": {
+    "documentTitle": "24pt",
+    "sectionTitle": "18pt",
+    "body": "14pt",
+    "table": "12pt",
+    "caption": "10pt"
+  },
+  "rules": [
+    "العربية RTL افتراضيًا.",
+    "العناوين الرسمية تستخدم Bold.",
+    "الجداول لا تقل عن 11pt عند الطباعة.",
+    "التقارير المدرسية يفضل فيها 12pt إلى 14pt حسب كثافة البيانات."
+  ]
+}

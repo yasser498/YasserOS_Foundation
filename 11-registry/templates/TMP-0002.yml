@@ -1,0 +1,22 @@
+id: TMP-0002
+name: MOE Official Report Template
+category: Template
+domain: Education
+owner: YasserOS
+status: approved
+version: 1.0.0
+depends:
+  - DSG-0001
+  - DSG-0002
+  - RPT-0001
+used_by:
+  - education-suite
+ai_priority: critical
+description: >
+  قالب التقرير الرسمي لوزارة التعليم بصيغة قابلة للتنفيذ والطباعة.
+tags:
+  - template
+  - report
+  - moe
+  - a4
+  - pdf

@@ -1,0 +1,22 @@
+id: DSG-0002
+name: MOE Design Tokens
+category: Design
+domain: Education
+owner: YasserOS
+status: approved
+version: 1.0.0
+depends:
+  - DSG-0001
+used_by:
+  - TMP-0002
+  - TMP-0003
+  - TMP-0004
+  - UI-0002
+ai_priority: critical
+description: >
+  Design Tokens الخاصة بهوية وزارة التعليم داخل YasserOS، وتشمل الألوان والخطوط والمسافات وقواعد الطباعة.
+tags:
+  - design-tokens
+  - moe
+  - education
+  - rtl
