@@ -1,0 +1,3 @@
+# Registry
+
+Blueprint أولي للصفحة.

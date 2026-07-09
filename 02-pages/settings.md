@@ -1,0 +1,3 @@
+# Settings
+
+Blueprint أولي للصفحة.
